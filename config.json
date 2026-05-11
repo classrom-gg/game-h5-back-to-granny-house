@@ -1,0 +1,70 @@
+{
+  "name": "back-to-granny-house",
+  "app_id": "back-to-granny-house",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-back-to-granny-house@main/back-to-granny-house/",
+  "urls": {
+    "dataUrl": "Build/Back to Granny",
+    "frameworkUrl": "Build/Back to Granny",
+    "codeUrl": "Build/Back to Granny"
+  },
+  "files": {
+    "Back to Granny's House.data": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-back-to-granny-house@main/back-to-granny-house/Build\\Back to Granny's House.data",
+      "local_path": "Build\\Back to Granny's House.data",
+      "size": 75338761,
+      "size_mb": 71.85,
+      "needs_chunk": true
+    },
+    "Back to Granny's House.framework.js": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-back-to-granny-house@main/back-to-granny-house/Build\\Back to Granny's House.framework.js",
+      "local_path": "Build\\Back to Granny's House.framework.js",
+      "size": 426223,
+      "size_mb": 0.41,
+      "needs_chunk": false
+    },
+    "Back to Granny's House.loader.js": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-back-to-granny-house@main/back-to-granny-house/Build\\Back to Granny's House.loader.js",
+      "local_path": "Build\\Back to Granny's House.loader.js",
+      "size": 13076,
+      "size_mb": 0.01,
+      "needs_chunk": false
+    },
+    "Back to Granny's House.wasm": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-back-to-granny-house@main/back-to-granny-house/Build\\Back to Granny's House.wasm",
+      "local_path": "Build\\Back to Granny's House.wasm",
+      "size": 35551366,
+      "size_mb": 33.9,
+      "needs_chunk": true
+    }
+  },
+  "chunks_needed": [
+    {
+      "filename": "Back to Granny's House.data",
+      "path": "Build\\Back to Granny's House.data",
+      "size_mb": 71.85,
+      "chunks": 4
+    },
+    {
+      "filename": "Back to Granny's House.wasm",
+      "path": "Build\\Back to Granny's House.wasm",
+      "size_mb": 33.9,
+      "chunks": 2
+    }
+  ],
+  "large_files": [
+    {
+      "path": "c:\\Users\\ngocl\\Desktop\\game h5 github\\games\\back-to-granny-house\\Build\\Back to Granny's House.data",
+      "relative_path": "Build\\Back to Granny's House.data",
+      "size": 75338761,
+      "size_mb": 71.85,
+      "needs_chunk": true
+    },
+    {
+      "path": "c:\\Users\\ngocl\\Desktop\\game h5 github\\games\\back-to-granny-house\\Build\\Back to Granny's House.wasm",
+      "relative_path": "Build\\Back to Granny's House.wasm",
+      "size": 35551366,
+      "size_mb": 33.9,
+      "needs_chunk": true
+    }
+  ]
+}
